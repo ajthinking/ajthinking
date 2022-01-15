@@ -11,9 +11,9 @@
 
 - 🌱 I’m learning **Rails, TypeScript, Docker**
 
-- 👯 I’m looking to collaborate on [DataStory](github.com/ajthinking/data-story)
+- 👯 I’m looking to collaborate on [DataStory](https://github.com/ajthinking/data-story)
 
-- 🤝 I’m looking for help with [Archetype](github.com/ajthinking/archetype)
+- 🤝 I’m looking for help with [Archetype](https://github.com/ajthinking/archetype)
 
 - 💬 Ask me about **Laravel**
 
